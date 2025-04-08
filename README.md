@@ -46,5 +46,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgement
 Dataset sourced from Canada’s Open Government Portal.
+
 A special thank you to the peers and teachers at Durham College for their advice and comments.
 
