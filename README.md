@@ -42,9 +42,11 @@ Student at Durham College – Data Analytics, 2025
 With 5+ years of banking experience and a passion for using data to solve real-world problems.
 
 #License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 #Acknowledgement
+
 Dataset sourced from Canada’s Open Government Portal.
 A special thank you to the peers and teachers at Durham College for their advice and comments.
 
