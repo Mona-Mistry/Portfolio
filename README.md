@@ -12,4 +12,8 @@ numpy
 matplotlib
 seaborn
 sklearn
+You can install the required libraries using: pip install pandas numpy matplotlib seaborn scikit-learn
+# Installing
+1. Clone this repository: git clone https://github.com/yourusername/fuel-consumption-analysis.git
+
 
