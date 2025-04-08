@@ -35,8 +35,10 @@ The Jupyter Notebook is intended for local execution of this project. At this ti
 
 # Author
 Mona Mistry - 
-[LinkedIn Profile (mona-mistry-b89528173)]
-Student at Durham College – Data Analytics
+[LinkedIn Profile (www.linkedin.com/in/mona-mistry-b89528173)]
+
+Student at Durham College – Data Analytics, 2025
+
 With 5+ years of banking experience and a passion for using data to solve real-world problems.
 
 #License
